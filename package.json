@@ -4,7 +4,7 @@
   "description": "Changelly API Example",
   "main": "index.js",
   "dependencies": {
-    "jayson": "^2.0.1",
+    "jayson": "^3.6.6",
     "socket.io-client": "^1.4.6"
   },
   "devDependencies": {}
